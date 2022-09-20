@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **iOS development, blockchain**
 
-- 👨‍💻 All of my projects are available at [sicelositsha.co.zw](sicelositsha.co.zw)
+- 👨‍💻 All of my projects are available at [sicelositsha.co.zw](https://sicelositsha.co.zw)
 
 - 💬 Ask me about **reactjs, nodejs**
 
 - 📫 How to reach me **sicelositsha@yahoo.com**
 
-- 📄 Know about my experiences [sicelositsha.co.zw](sicelositsha.co.zw)
+- 📄 Know about my experiences [sicelositsha.co.zw](https://sicelositsha.co.zw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
