@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [sicelositsha.co.zw](https://sicelositsha.co.zw)
 
-- 💬 Ask me about **reactjs, nodejs**
+- 💬 Ask me about **reactjs, nodejs**, **vuejs, **javascript, **django
 
 - 📫 How to reach me **sicelositsha@yahoo.com**
 
