@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [sicelositsha.co.zw](https://sicelositsha.co.zw)
 
-- 💬 Ask me about **reactjs, nodejs, react native, vuejs, javascript, django**
+- 💬 Ask me about **reactjs/nextjs, flutter, nodejs, react native, vuejs, javascript, django**
 
 - 📫 How to reach me **sicelositsha@yahoo.com**
 
